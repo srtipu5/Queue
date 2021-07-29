@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\bin\Debug\net5.0\Queue.exe
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\bin\Debug\net5.0\Queue.deps.json
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\bin\Debug\net5.0\Queue.runtimeconfig.json
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\bin\Debug\net5.0\Queue.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\bin\Debug\net5.0\Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\bin\Debug\net5.0\ref\Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\bin\Debug\net5.0\Queue.pdb
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\ref\Queue.dll
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.pdb
+C:\Users\Tipu\Desktop\DataStructures\Queue\Queue\Queue\obj\Debug\net5.0\Queue.genruntimeconfig.cache
